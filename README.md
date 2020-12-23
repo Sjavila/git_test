@@ -1,0 +1,1 @@
+Hello. Example of git usage, refrehser.
